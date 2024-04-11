@@ -1,0 +1,4 @@
+# Ohjeen tiedostot
+*.tmp
+__pycache__/
+.pytest_cache/
